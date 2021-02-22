@@ -12,7 +12,7 @@
         I was introduced to 'ROBLOX' where I began scripting in the LUA
         language. This opened a new portal of creativity due to the fact of,
         when I coded something I could actively see what it was that was being
-        written out. Since this opportunity was given to me I have never been
+        executed. Since this opportunity was given to me I have never been
         more excited to explore the possibilities with coding. I am very eager
         to learn as much as I possibly can while also using what I know to
         strengthen the community. Throughout this time I have thought of
